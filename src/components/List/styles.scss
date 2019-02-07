@@ -1,0 +1,30 @@
+.listItem {
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.title {
+	text-transform: capitalize;
+	font-family: 'Alagreya' !important;
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.subtitle {
+	text-transform: capitalize;
+	font-family: 'Alagreya' !important;
+	font-size: 16px;
+	font-weight: 400;
+}
+
+.collapse {
+	background-color: white;
+	padding: 5px;
+	border: 1px solid #373737;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+.fake {
+	height: 10px;
+}
